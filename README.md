@@ -70,3 +70,9 @@ welcome.
 * Document property -> value type mapping
 * Add more samples (port the very cool [popping](https://github.com/schneiderandre/popping))
 * Where's _POPAnimationDragCoefficient_ from POPAnimationExtras.h
+
+## Credits
+
+Originally built for [Moment](http://www.getmoment.co), a new way to enjoy your photos and
+videos. Thanks to
+[@jeremysomething](https://twitter.com/jeremysomething).
